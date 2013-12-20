@@ -101,7 +101,7 @@ package
 			this.dispatchEvent(new Event("load_complete"));
 			removeEvent();
 			var param:Object = {
-				"cpro_client":"78050048_cpr",
+				"cpro_client":"78050048_1_cpr",
 				"cpro_url":"www.kankanews.com",
 				"cpro_w":init_width,
 				"cpro_h":init_height,
