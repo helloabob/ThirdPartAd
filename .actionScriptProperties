@@ -9,7 +9,9 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
+    <application path="BaiduUnionAdPlugin.as"/>
     <application path="AdChinaAdPlugin.as"/>
+    <application path="BaiduHongAdPlugin.as"/>
     <application path="PageChoiceAdPlugin.as"/>
     <application path="BaiduAdPlugin2.as"/>
   </applications>
