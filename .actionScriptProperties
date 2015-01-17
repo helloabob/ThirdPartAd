@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<actionScriptProperties analytics="false" mainApplicationPath="BaiduAdPlugin2.as" projectUUID="a106ffa3-e68e-48c6-9199-41ac712df974" version="10">
-  <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="true" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
+<actionScriptProperties analytics="false" mainApplicationPath="BaiduAdPlugin3.as" projectUUID="a106ffa3-e68e-48c6-9199-41ac712df974" version="11">
+  <compiler additionalCompilerArguments="-locale en_US" advancedTelemetry="false" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="true" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" removeUnusedRSL="true" sourceFolderPath="src" strict="true" targetPlayerVersion="0.0.0" useApolloConfig="false" useDebugRSLSwfs="true" useFlashSDK="true" verifyDigests="true" warn="true">
     <compilerSourcePath/>
     <libraryPath defaultLinkType="0">
       <libraryPathEntry kind="3" linkType="2" path="${FLASHPRO_APPCONFIG}/ActionScript 3.0/FP11.2/playerglobal.swc" useDefaultLinkType="false"/>
@@ -9,6 +9,7 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
+    <application path="BaiduAdPlugin3.as"/>
     <application path="BaiduUnionAdPlugin.as"/>
     <application path="AdChinaAdPlugin.as"/>
     <application path="BaiduHongAdPlugin.as"/>
@@ -16,6 +17,7 @@
     <application path="BaiduAdPlugin2.as"/>
   </applications>
   <modules/>
+  <workers/>
   <buildCSSFiles/>
   <flashCatalyst validateFlashCatalystCompatibility="false"/>
 </actionScriptProperties>
