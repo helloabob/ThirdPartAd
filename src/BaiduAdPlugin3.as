@@ -116,7 +116,7 @@ package
 			//loaderBaiduAd.content.x = loaderBaiduAd.content.y = 50;
 			ad = loaderBaiduAd.content as Object;
 			// 请求检索广告，传入广告位 ID 以及对应 url domain
-			ad["requestAd"]("u1877001", "test.kankanews.com", this.onSuccess,
+			ad["requestAd"]("u1877001", "www.kankanews.com", this.onSuccess,
 				this.onError);
 			
 		}
